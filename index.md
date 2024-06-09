@@ -1,10 +1,8 @@
 # Welcome to My R3CTF/YUANHENGCTF 2024 Write-up Solution
 
-
-"Hello there! 👋 Welcome to my Crypto CTF Writeups repository! I had the pleasure of joining the R3CTF/YUANHENGCTF 2024 CTF with my team, BOTscope, using the my alias LanZero. Here, I'll share detailed write-ups for challenges I solved during the competition. Let's dive into the crypto mysteries together!"
-
 ![ctf-landing-page](/images/r3ctf.png)
 
+"Hello there! 👋 I had the pleasure of joining the R3CTF/YUANHENGCTF 2024 CTF with my team, BOTscope, using the my alias LanZero. Here, I'll share detailed write-ups for challenges I solved during the competition. Let's dive into the crypto mysteries together!"
 ## Welcome Challenge (100 points)
 
 ![welcome](/images/welcome.png)
