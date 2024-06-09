@@ -1,0 +1,32 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore build directories
+/build
+/bin
+/out
+/target
+/dist
+
+# Ignore temporary files
+*~
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment
+venv/
